@@ -103,52 +103,34 @@ Binte-Zahra-AI-Portfolio/
 │
 ├── README.md
 │
-├── ITAI2376-DeepLearning/
-│   │
-│   ├── A02-ML-vs-Deep-Learning-Frameworks/
-│   │   ├── README.md
-│   │   ├── A02a_Team_1_Waseem_Basit_ITA2376.pdf
-│   │   └── A02a_Team_1_Waseem_Basit_ITA2376.docx
-│   │
-│   ├── A03-Neural-Network-Zoo-GAN-Butterfly/
-│   │   ├── README.md
-│   │   ├── A03_Group1_Binte-Waseem_ITAI2376.pdf
-│   │   └── A03_Reflective-Journal.md
-│   │
-│   ├── A04-Backprop-Robo-Basketball/
-│   │   ├── README.md
-│   │   ├── A04_Group1_Binte_Waseem_ITAI2376.pptx
-│   │   └── A04_Backprop-Robo-Notes.md
-│   │
-│   ├── A05-Arrival-NLP-and-Communication/
-│   │   ├── README.md
-│   │   └── A05_Team1_Waseem_Binte_ITAI2376.pptx
-│   │
-│   ├── Lab02-VGG16-NoCode-ImageNet/
-│   │   ├── README.md
-│   │   ├── L02_Explorer_BinteZahra_ITAI2376R.pdf
-│   │   ├── ITAI2376_BinteZahra_L02.ipynb.pdf
-│   │   └── VGG16_NoCode_Reflection.md
-│   │
-│   ├── Lab04-CNN-MNIST/
-│   │   ├── README.md
-│   │   ├── Lab04_CNN_BinteZahra_ITAI2376.pdf
-│   │   ├── Lab04_CNN_BinteZahra_ITAI2376_Final.pdf
-│   │   └── Lab04_CNN_Reflection.md
-│   │
-│   └── L09-Diffusion-MNIST/
-│       ├── README.md
-│       └── L09_Diffusion_BinteZahra_notebook_ITAI_2376.pdf
-│
-├── Interactive-Learning-Companion-Python-Tutor/
+├── Project-A02-Frameworks/
 │   ├── README.md
-│   ├── src/            # (unzip your project code into here)
-│   ├── data/
-│   ├── notebooks/
-│   └── docs/
+│   └── A02a_Team_1_Waseem_Basit_ITAI2376.pdf
 │
-└── Presentation/
-    └── Pf_BinteZahra_ITAI2376_Portfolio.pdf   # your 3–5 slide portfolio deck
+├── Project-A03-GAN-Butterfly/
+│   ├── README.md
+│   └── A03_Group1_Binte-Waseem_ITAI2376.pdf
+│
+├── Project-A04-Backprop-Robo/
+│   ├── README.md
+│   └── A04_Group1_Binte_Waseem_ITAI2376.pptx
+│
+├── Project-A05-Arrival-NLP/
+│   ├── README.md
+│   └── A05_Team1_Waseem_Binte_ITAI2376.pptx
+│
+├── Project-Lab02-VGG16/
+│   ├── README.md
+│   └── ITAI2376_BinteZahra_L02.ipynb - Colab.pdf
+│
+├── Project-Lab04-CNN/
+│   ├── README.md
+│   └── Lab04_CNN_BinteZahra_ITAI2376.pdf
+│
+└── Project-L09-Diffusion/
+    ├── README.md
+    └── L09_Diffusion_BinteZahra_notebook_ITAI_2376.ipynb - Colab.pdf
+
 
 ## 📫 Contact
  
