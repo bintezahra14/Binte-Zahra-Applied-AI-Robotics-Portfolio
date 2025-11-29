@@ -33,70 +33,34 @@ This repository showcases my applied AI work in deep learning, NLP, and generati
 ---
 
 ## 📚 Course Projects – ITAI 2376 Deep Learning
+# Binte Zahra – AI Portfolio (ITAI 2376)
 
-### 1. A02 – TensorFlow vs PyTorch: Comparative Analysis
+This portfolio contains selected deep learning projects from **ITAI 2376 – Deep Learning** at Houston Community College.
 
-A written comparison of TensorFlow and PyTorch as deep learning frameworks, focusing on ecosystem, deployment, research friendliness, and real-world use cases. :contentReference[oaicite:0]{index=0}  
+Each project is in its **own folder** with its **own README** and source files.
 
-> **Folder:** [`ITAI2376-DeepLearning/A02-ML-vs-Deep-Learning-Frameworks`](./ITAI2376-DeepLearning/A02-ML-vs-Deep-Learning-Frameworks)
+## 📁 Projects
 
----
+1. **A02 – TensorFlow vs PyTorch (Frameworks Comparison)**  
+   → [`Project-A02-Frameworks`](./Project-A02-Frameworks)
 
-### 2. A03 – Neural Network Zoo: GAN “Butterfly”
+2. **A03 – Neural Network Zoo: GAN Butterfly**  
+   → [`Project-A03-GAN-Butterfly`](./Project-A03-GAN-Butterfly)
 
-A visual storytelling project that explains GANs as a “butterfly” with generator and discriminator wings, including structure, behavior, and metamorphosis from random noise to realistic images.   
+3. **A04 – Backpropagation: Robo’s Basketball Adventure**  
+   → [`Project-A04-Backprop-Robo`](./Project-A04-Backprop-Robo)
 
-> **Folder:** [`ITAI2376-DeepLearning/A03-Neural-Network-Zoo-GAN-Butterfly`](./ITAI2376-DeepLearning/A03-Neural-Network-Zoo-GAN-Butterfly)
+4. **A05 – Arrival (2016) & NLP Communication Challenges**  
+   → [`Project-A05-Arrival-NLP`](./Project-A05-Arrival-NLP)
 
----
+5. **Lab 02 – VGG16 No-Code Deep Learning Lab**  
+   → [`Project-Lab02-VGG16`](./Project-Lab02-VGG16)
 
-### 3. A04 – Backpropagation via Robo’s Basketball Adventure
+6. **Lab 04 – CNN for MNIST Digit Classification**  
+   → [`Project-Lab04-CNN`](./Project-Lab04-CNN)
 
-An educational presentation explaining backpropagation through the story of a robot learning to shoot a basketball, showing layers, errors flowing backward, and weights as “volume knobs” that adjust over time.   
-
-> **Folder:** [`ITAI2376-DeepLearning/A04-Backprop-Robo-Basketball`](./ITAI2376-DeepLearning/A04-Backprop-Robo-Basketball)
-
----
-
-### 4. A05 – Arrival (2016) & NLP Challenges
-
-A movie-based analysis of the film *Arrival* and its parallels to NLP challenges like ambiguity, context, multilingual understanding, and unsupervised learning from unlabelled symbol sequences. :contentReference[oaicite:3]{index=3}  
-
-> **Folder:** [`ITAI2376-DeepLearning/A05-Arrival-NLP-and-Communication`](./ITAI2376-DeepLearning/A05-Arrival-NLP-and-Communication)
-
----
-
-### 5. Lab 02 – VGG16 No-Code Deep Learning Lab
-
-A no-code exploration of the pre-trained VGG16 model on ImageNet, focusing on preprocessing (224×224 RGB, normalization), predictions, and how small input changes affect confidence and labels.   
-
-> **Folder:** [`ITAI2376-DeepLearning/Lab02-VGG16-NoCode-ImageNet`](./ITAI2376-DeepLearning/Lab02-VGG16-NoCode-ImageNet)
-
----
-
-### 6. Lab 04 – CNN for MNIST Digit Classification
-
-A TensorFlow/Keras CNN with two Conv2D + MaxPooling layers, dropout, and softmax output trained on MNIST, achieving ≈99% test accuracy while exploring preprocessing, one-hot encoding, and hyperparameter tuning.   
-
-> **Folder:** [`ITAI2376-DeepLearning/Lab04-CNN-MNIST`](./ITAI2376-DeepLearning/Lab04-CNN-MNIST)
-
----
-
-### 7. L09 – Diffusion Model on MNIST
-
-A PyTorch-based diffusion model with a U-Net backbone that learns to denoise images from random noise to handwritten digits using MNIST. Includes time and class embeddings, down/upsampling blocks, and GPU-aware training config. :contentReference[oaicite:6]{index=6}  
-
-> **Folder:** [`ITAI2376-DeepLearning/L09-Diffusion-MNIST`](./ITAI2376-DeepLearning/L09-Diffusion-MNIST)
-
----
-
-## 🎓 Capstone-Style Project
-
-### Interactive Learning Companion – Python Tutor
-
-An agent-style Python tutor that adapts to the learner, generates tailored exercises, evaluates solutions, and adjusts difficulty based on performance. (Code from my “Interactive-Learning-Companion-Python-Tutor” project; structure documented in the subfolder.)
-
-> **Folder:** [`Interactive-Learning-Companion-Python-Tutor`](./Interactive-Learning-Companion-Python-Tutor)
+7. **L09 – Diffusion Model for MNIST Generation**  
+   → [`Project-L09-Diffusion`](./Project-L09-Diffusion)
 
 ---
 Binte-Zahra-AI-Portfolio/
